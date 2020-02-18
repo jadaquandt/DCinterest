@@ -1,0 +1,46 @@
+#top {
+    background-color: #353a40;
+    height: 45px;
+    display: flex;
+}
+
+.logo {
+    margin-left: 50px;
+    height: 20px;
+    margin-top: 15px;
+}
+h1 {
+    display: flex;
+    color: #969b9e;
+    font-size: 18px; 
+    padding: 10px;
+    padding-top: 15px;
+}
+
+.nav {
+    display: flex;
+    padding-right: 30px;
+    
+}
+
+.nav-link {
+    color: #969b9e;
+    font-size: 18px;
+}
+
+.card-container {
+    display: flex;
+}
+
+.card-img-top-overlay {
+    width: 180px;
+    border-radius: 5px;
+}
+
+.card-title {
+    position: absolute;
+    padding: 15px;
+    color: white;
+   /* top: 10px;
+    left: 20px; */
+}
